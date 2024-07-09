@@ -1,5 +1,5 @@
 {
-  "name": "gzwzc@xprofiler-console-support-low-node",
+  "name": "xprofiler-console-support-low-node",
   "version": "1.0.0",
   "description": "console for xprofiler",
   "egg": {
